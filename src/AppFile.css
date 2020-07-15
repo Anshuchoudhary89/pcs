@@ -1,0 +1,10 @@
+.Background {
+	/* background: #1488CC;   
+background: -webkit-linear-gradient(to top, #2B32B2, #1488CC);  
+background: linear-gradient(to top, #2B32B2, #1488CC);  */
+background: linear-gradient(90deg, #39A29E, #3B9DC2, #2C6EA4, #BC7DD7);
+background-size: 400% 400%;
+-webkit-animation: Gradient 15s ease infinite;
+-moz-animation: Gradient 15s ease infinite;
+animation: Gradient 10s ease infinite;
+}
